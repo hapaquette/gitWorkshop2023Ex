@@ -9,4 +9,8 @@
 
 # committed script and gitignore.
 
-# edited script_1
+# edited script_1, resulted in it showing up in the git windwo with a blue M icon
+
+# created repo in GitHub called gitWorkshop2023Ex
+# created remote in Rstudio called 'origin' with branch called 'main'
+# repo URL https://github.com/hapaquette/gitWorkshop2023Ex.git
