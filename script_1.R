@@ -14,3 +14,5 @@
 # created repo in GitHub called gitWorkshop2023Ex
 # created remote in Rstudio called 'origin' with branch called 'main'
 # repo URL https://github.com/hapaquette/gitWorkshop2023Ex.git
+
+# pushed commits to GitHub repo.
